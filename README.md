@@ -12,5 +12,5 @@ https://doi.org/10.31219/osf.io/8twb5_v2<br/>
 透过 zenodo.org 提供 DOI号码 与 下载网址<br/>
 
 光速论文 v3<br/>
-大家可以直接在 github 中下载论文<br/>
+大家可以直接在 github 下载论文<br/>
 或是到 https://doi.org/10.5281/zenodo.21311080 下载<br/>
